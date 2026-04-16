@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0;url=URL_WEB_APP_APPS_SCRIPT_ANDA">
+  
+  <title>Redirecting...</title>
+</head>
+<body>
+  <script>
+    // 2. Cara cadangan via JavaScript jika Meta Tag gagal
+    window.location.href = "https://script.google.com/macros/s/AKfycbx6pojsREEDhEwH4UdFFh_OftLunmohDfoPd1mx1TfDtbY4i01sKm6m-oVaxJQpVQT1pQ/exec";
+  </script>
+
+  <p>Sedang mengalihkan ke aplikasi... 
+     Jika tidak berpindah, <a href="https://script.google.com/macros/s/AKfycbx6pojsREEDhEwH4UdFFh_OftLunmohDfoPd1mx1TfDtbY4i01sKm6m-oVaxJQpVQT1pQ/exec">klik di sini</a>.
+  </p>
+</body>
+</html>
+
