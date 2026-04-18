@@ -1,20 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0;url=URL_WEB_APP_APPS_SCRIPT_ANDA">
-  
-  <title>Redirecting...</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/ID_DEPLOY_KAMU/exec">
+    <title>PPDB | SMP Penabur Bunga I</title>
 </head>
 <body>
-  <script>
-    // 2. Cara cadangan via JavaScript jika Meta Tag gagal
-    window.location.href = "https://script.google.com/macros/s/AKfycbx6pojsREEDhEwH4UdFFh_OftLunmohDfoPd1mx1TfDtbY4i01sKm6m-oVaxJQpVQT1pQ/exec";
-  </script>
-
-  <p>Sedang mengalihkan ke aplikasi... 
-     Jika tidak berpindah, <a href="https://script.google.com/macros/s/AKfycbx6pojsREEDhEwH4UdFFh_OftLunmohDfoPd1mx1TfDtbY4i01sKm6m-oVaxJQpVQT1pQ/exec">klik di sini</a>.
-  </p>
+    <script>
+        // Cara 2: Redirect menggunakan JavaScript sebagai cadangan (lebih cepat)
+        window.location.href = "https://script.google.com/macros/s/AKfycbyssc-S-q88-5IKbXOxKhaxq9MnhVGZjlTBNzRksb-NzsQqD2FV_Rcmc64hjgOK5JFv/exec";
+    </script>
 </body>
 </html>
-
